@@ -24,11 +24,10 @@ This project implements a complete user authentication flow including:
 
 🛠️ Tech Stack
 
-Layer       Technologies               
-Frontend    React, HTML, CSS, JavaScript 
-Backend     Node.js, Express.js        
-Database    MySQL                      
-Security    JWT or Express-Session, bcrypt 
+Frontend:- React, HTML, CSS, JavaScript 
+Backend:- Node.js, Express.js        
+Database:- MySQL                      
+Security:- JWT or Express-Session, bcrypt 
 
 📝 Registration Page
 
